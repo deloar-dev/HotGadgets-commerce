@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top-nav {
+    background-color: #f8f9fa;
+}
+
+.carousel-item {
+    padding: 0px 50px;
+    background-color: #dddddd4a;
+    border-radius: 10px;
+    ;
+}
